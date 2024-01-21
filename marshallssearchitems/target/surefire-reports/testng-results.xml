@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-20T04:56:01Z" name="test.com.SearchTestNGTest" finished-at="2024-01-20T04:57:47Z" duration-ms="105915">
+    <groups>
+    </groups>
+    <test started-at="2024-01-20T04:56:01Z" name="Command line test" finished-at="2024-01-20T04:57:47Z" duration-ms="105915">
+      <class name="test.com.SearchTestNGTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:56:01Z" name="setUpClass" finished-at="2024-01-19T22:56:01Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:56:01Z" name="setUpMethod" finished-at="2024-01-19T22:56:03Z" duration-ms="2088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testTCSearchVaildItems()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:56:03Z" name="testTCSearchVaildItems" finished-at="2024-01-19T22:56:57Z" duration-ms="53301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTCSearchVaildItems -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:56:57Z" name="tearDownMethod" finished-at="2024-01-19T22:56:57Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:56:57Z" name="setUpMethod" finished-at="2024-01-19T22:56:58Z" duration-ms="1572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testSuggested()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:56:58Z" name="testSuggested" finished-at="2024-01-19T22:57:25Z" duration-ms="27302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuggested -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:57:25Z" name="tearDownMethod" finished-at="2024-01-19T22:57:25Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:57:25Z" name="setUpMethod" finished-at="2024-01-19T22:57:27Z" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testUntitledTestCase()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:57:27Z" name="testUntitledTestCase" finished-at="2024-01-19T22:57:47Z" duration-ms="20372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitledTestCase -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:57:47Z" name="tearDownMethod" finished-at="2024-01-19T22:57:47Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.SearchTestNGTest@12cdcf4]" started-at="2024-01-19T22:57:47Z" name="tearDownClass" finished-at="2024-01-19T22:57:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test.com.SearchTestNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.SearchTestNGTest -->
+</testng-results>
